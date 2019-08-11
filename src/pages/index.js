@@ -14,7 +14,7 @@ const IndexPage = ({data}) => {
       <p>Click on the name of a hospital below for more information and to see it's location on a map</p>
       <ul>
         {
-          allHospitals.map(hospital => (<li><Link to={withPrefix(`/hospital/${hospital.featureFields.ID}`)}>{hospital.featureFields.NAME}</Link></li>))
+          allHospitals.map(hospital => (<li><Link to={withPrefix(`hospital/${hospital.featureFields.ID}`)}>{hospital.featureFields.NAME}</Link></li>))
         }
       </ul>
     </Layout>
