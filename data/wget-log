@@ -1,11 +1,0 @@
---2019-08-10 20:58:29--  http://lle.gov.wales/services/wfs?version=1.0.0
-Resolving lle.gov.wales (lle.gov.wales)... 23.97.224.11
-Connecting to lle.gov.wales (lle.gov.wales)|23.97.224.11|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 525 [text/xml]
-Saving to: ‘wfs?version=1.0.0’
-
-wfs?version=1.0.0                   0%[                                                            ]       0  --.-KB/s               wfs?version=1.0.0                 100%[===========================================================>]     525  --.-KB/s    in 0s      
-
-2019-08-10 20:58:29 (43.8 MB/s) - ‘wfs?version=1.0.0’ saved [525/525]
-

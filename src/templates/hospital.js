@@ -6,7 +6,6 @@ import LeafletMap from '../components/leafletmap'
 const HospitalTemplate = ({ data }) => {
   let hospital = data.allGeoFeature.edges[0].node.featureFields;
   let position = [hospital.LATITUDE, hospital.LONGITUDE];
-  console.log(position);
   return (
     <Layout>
     <h1>{hospital.NAME}</h1>
