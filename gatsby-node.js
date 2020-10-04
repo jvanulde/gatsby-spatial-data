@@ -6,7 +6,7 @@ exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
 
   return new Promise((resolve, reject) => {
-    const hospitalTemplate = path.resolve(`src/templates/hospital.js`)
+    const layerTemplate = path.resolve(`src/templates/layer.js`)
     // Query for recipe nodes to use in creating pages.
     resolve(
       graphql(
@@ -17,15 +17,10 @@ exports.createPages = ({ actions, graphql }) => {
       node {
         id
         featureFields {
-        ID 
-          ADDRESS_1
-          NAME
-          POSTCODE
-          LATITUDE
-          LONGITUDE
-          URL
-          TYPE
-          NUMBER
+          Sauid
+          sCt_CasDay_min_b0
+          sCt_CasDay_mod_b0
+          sCt_CasDay_ser_b0
         }
       }
     }
@@ -41,8 +36,8 @@ exports.createPages = ({ actions, graphql }) => {
         // Create pages for each article.
         result.data.allGeoFeature.edges.forEach(({node}) => {
           createPage({
-            path: "/hospital/" + node.featureFields.ID,
-            component: hospitalTemplate,
+            path: "/layer/" + node.featureFields.Sauid,
+            component: layerTemplate,
             context: {
               url: node.featureFields.URL,
             },

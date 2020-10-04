@@ -5,16 +5,16 @@ import { withPrefix } from "gatsby"
 
 const IndexPage = ({data}) => {
 
-  const allHospitals = data.allGeoFeature.edges.map(
+  const allFeatures = data.allGeoFeature.edges.map(
     edge => edge.node
   )
 
   return (
     <Layout>
-      <p>Click on the name of a hospital below for more information and to see it's location on a map</p>
+      <p>Click on the Saiud of a feature below for more information and to see it's location on a map</p>
       <ul>
         {
-          allHospitals.map(hospital => (<li><Link to={`hospital/${hospital.featureFields.ID}`}>{hospital.featureFields.NAME}</Link></li>))
+          allFeatures.map(layer => (<li><Link to={`layer/${layer.featureFields.Sauid}`}>{layer.featureFields.Sauid}</Link></li>))
         }
       </ul>
     </Layout>
@@ -30,8 +30,7 @@ query{
       node {
         id
         featureFields {
-          NAME
-          ID
+          Sauid
         }
       }
     }

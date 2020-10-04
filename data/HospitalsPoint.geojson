@@ -1,0 +1,3353 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.071577533839194,
+          52.416067871822484
+        ]
+      },
+      "properties": {
+        "ID": 1,
+        "NAME": "Bronglais General Hospital",
+        "ADDRESS_1": "Caradog Road, Aberystwyth",
+        "POSTCODE": "SY23 1ER",
+        "NUMBER": "Tel: 01970 623131",
+        "TYPE": "Type of Hospital: Major acute  -  Major A&E - Open",
+        "SERVICE": "Major A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/110",
+        "POINT_X": 259207.996242,
+        "POINT_Y": 281805.003408,
+        "LONGITUDE": -4.071631,
+        "LATITUDE": 52.416041,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4963452081304665,
+          53.27175509334038
+        ]
+      },
+      "properties": {
+        "ID": 2,
+        "NAME": "Glan Clwyd Hospital",
+        "ADDRESS_1": "Rhuddlan Road, Bodelwyddan, Rhyl, Denbighshire",
+        "POSTCODE": "LL18 5UJ",
+        "NUMBER": "Tel: 01745 583910",
+        "TYPE": "Type of Hospital: Major acute  -  Major A&E - Open",
+        "SERVICE": "Major A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/41577",
+        "POINT_X": 300308.999207,
+        "POINT_Y": 376019.004931,
+        "LONGITUDE": -3.496383,
+        "LATITUDE": 53.271745,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.284722645460772,
+          51.86752418658755
+        ]
+      },
+      "properties": {
+        "ID": 3,
+        "NAME": "Glangwili General Hospital",
+        "ADDRESS_1": "Dolgwili Road, Glangwili, Carmarthen",
+        "POSTCODE": "SA31 2AF",
+        "NUMBER": "Tel: 01267 235151",
+        "TYPE": "Type of Hospital: Major acute  -  Major A&E - Open",
+        "SERVICE": "Major A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/116",
+        "POINT_X": 242791.99714,
+        "POINT_Y": 221239.99996,
+        "LONGITUDE": -4.284783,
+        "LATITUDE": 51.867487,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.935252427658216,
+          51.68465189818671
+        ]
+      },
+      "properties": {
+        "ID": 4,
+        "NAME": "Morriston Hospital",
+        "ADDRESS_1": "Swansea, Heol Maes Eglwys, Cwmrhydyceirw, Swansea",
+        "POSTCODE": "SA6 6NL",
+        "NUMBER": "Tel: 01792 702222",
+        "TYPE": "Type of Hospital: Major acute  -  Major A&E - Open",
+        "SERVICE": "Major A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/151",
+        "POINT_X": 266311.00095,
+        "POINT_Y": 200206.00088,
+        "LONGITUDE": -3.935307,
+        "LATITUDE": 51.68461,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.034012308573803,
+          51.8246224778797
+        ]
+      },
+      "properties": {
+        "ID": 5,
+        "NAME": "Nevill Hall Hospital",
+        "ADDRESS_1": "Brecon Road, Abergavenny, Gwent",
+        "POSTCODE": "NP7 7EG",
+        "NUMBER": "Tel: 01873 732732",
+        "TYPE": "Type of Hospital: Major acute  -  Major A&E - Open",
+        "SERVICE": "Major A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/201",
+        "POINT_X": 328833.002458,
+        "POINT_Y": 214505.997548,
+        "LONGITUDE": -3.034048,
+        "LATITUDE": 51.824582,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3855044877607043,
+          51.763954042278165
+        ]
+      },
+      "properties": {
+        "ID": 6,
+        "NAME": "Prince Charles Hospital",
+        "ADDRESS_1": "Merthyr Tydfil, Mid Glamorgan",
+        "POSTCODE": "CF47 9DT",
+        "NUMBER": "Tel: 01685 721721",
+        "TYPE": "Type of Hospital: Major acute  -  Major A&E - Open",
+        "SERVICE": "Major A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/865/directory/hospitals/181",
+        "POINT_X": 304481.000124,
+        "POINT_Y": 208161.003784,
+        "LONGITUDE": -3.385548,
+        "LATITUDE": 51.763913,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5716381769327135,
+          51.517676378882385
+        ]
+      },
+      "properties": {
+        "ID": 7,
+        "NAME": "Princess of Wales Hospital",
+        "ADDRESS_1": "Coity Road, Bridgend, Mid Glamorgan",
+        "POSTCODE": "CF31 1RQ",
+        "NUMBER": "Tel: 01656 752752",
+        "TYPE": "Type of Hospital: Major acute  -  Major A&E - Open",
+        "SERVICE": "Major A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/153",
+        "POINT_X": 291047.000515,
+        "POINT_Y": 181032.999094,
+        "LONGITUDE": -3.571686,
+        "LATITUDE": 51.51763,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.390920743169594,
+          51.547627468009566
+        ]
+      },
+      "properties": {
+        "ID": 8,
+        "NAME": "Royal Glamorgan Hospital",
+        "ADDRESS_1": "Ynysmaerdy, Pontyclun, Llantrisant",
+        "POSTCODE": "CF72 8XR",
+        "NUMBER": "Tel: 01443 443443",
+        "TYPE": "Type of Hospital: Major acute  -  Major A&E - Open",
+        "SERVICE": "Major A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/865/directory/hospitals/182",
+        "POINT_X": 303648.999253,
+        "POINT_Y": 184109.998313,
+        "LONGITUDE": -3.390965,
+        "LATITUDE": 51.547582,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.998152316801317,
+          51.57979804510181
+        ]
+      },
+      "properties": {
+        "ID": 9,
+        "NAME": "Royal Gwent Hospital",
+        "ADDRESS_1": "Cardiff Road, Newport, Gwent",
+        "POSTCODE": "NP20 2UB",
+        "NUMBER": "Tel: 01633 234234",
+        "TYPE": "Type of Hospital: Major acute  -  Major A&E - Open",
+        "SERVICE": "Major A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/203",
+        "POINT_X": 330931.997133,
+        "POINT_Y": 187243.0015,
+        "LONGITUDE": -2.998189,
+        "LATITUDE": 51.579752,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.189360363134161,
+          51.506764328913555
+        ]
+      },
+      "properties": {
+        "ID": 10,
+        "NAME": "University Hospital of Wales",
+        "ADDRESS_1": "Heath Park, Cardiff",
+        "POSTCODE": "CF14 4XW",
+        "NUMBER": "Tel: 029 2074 7747",
+        "TYPE": "Type of Hospital: Major acute  -  Major A&E - Open",
+        "SERVICE": "Major A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/864/directory/hospitals/171",
+        "POINT_X": 317550.996776,
+        "POINT_Y": 179318.999722,
+        "LONGITUDE": -3.189401,
+        "LATITUDE": 51.506717,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.965072333204376,
+          51.812715558720555
+        ]
+      },
+      "properties": {
+        "ID": 11,
+        "NAME": "Withybush General Hospital",
+        "ADDRESS_1": "Fishguard Road, Haverfordwest, Pembs.",
+        "POSTCODE": "SA61 2PZ",
+        "NUMBER": "Tel: 01437 764545",
+        "TYPE": "Type of Hospital: Major acute  -  Major A&E - Open",
+        "SERVICE": "Major A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/132",
+        "POINT_X": 195710.002117,
+        "POINT_Y": 216835.000878,
+        "LONGITUDE": -4.965147,
+        "LATITUDE": 51.812678,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.010180229450835,
+          53.04617339871799
+        ]
+      },
+      "properties": {
+        "ID": 12,
+        "NAME": "Wrexham Maelor Hospital",
+        "ADDRESS_1": "Croesnewydd Road, Wrexham",
+        "POSTCODE": "LL13 7TD",
+        "NUMBER": "Tel: 01978 291100",
+        "TYPE": "Type of Hospital: Major acute  -  Major A&E - Open",
+        "SERVICE": "Major A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/42939",
+        "POINT_X": 332374.998256,
+        "POINT_Y": 350356.00089,
+        "LONGITUDE": -3.010209,
+        "LATITUDE": 53.046158,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.159825144486659,
+          53.20901953543846
+        ]
+      },
+      "properties": {
+        "ID": 13,
+        "NAME": "Ysbyty Gwynedd",
+        "ADDRESS_1": "Penrhosgarnedd, Bangor, Gwynedd",
+        "POSTCODE": "LL57 2PW",
+        "NUMBER": "Tel: 01248 384384",
+        "TYPE": "Type of Hospital: Major acute  -  Major A&E - Open",
+        "SERVICE": "Major A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/41562",
+        "POINT_X": 255856.997284,
+        "POINT_Y": 370172.998333,
+        "LONGITUDE": -4.159877,
+        "LATITUDE": 53.20901,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.135974120393604,
+          51.691612362722886
+        ]
+      },
+      "properties": {
+        "ID": 14,
+        "NAME": "Prince Philip Hospital",
+        "ADDRESS_1": "Bryngwyn Mawr, Dafen, Llanelli",
+        "POSTCODE": "SA14 8QF",
+        "NUMBER": "Tel: 01554 756567",
+        "TYPE": "Type of Hospital: Major acute  -  Minor A&E - Open",
+        "SERVICE": "Minor A&E",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/127",
+        "POINT_X": 252459.001478,
+        "POINT_Y": 201366.998548,
+        "LONGITUDE": -4.136032,
+        "LATITUDE": 51.691571,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.28478679049806,
+          51.413733724773756
+        ]
+      },
+      "properties": {
+        "ID": 15,
+        "NAME": "Barry Hospital",
+        "ADDRESS_1": "Colcot Road, Barry, South Glamorgan",
+        "POSTCODE": "CF62 8YH",
+        "NUMBER": "Tel: 01446 704000",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/864/directory/hospitals/160",
+        "POINT_X": 310746.793082,
+        "POINT_Y": 169085.059157,
+        "LONGITUDE": -3.28483,
+        "LATITUDE": 51.413685,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3848144330118695,
+          51.949016948238274
+        ]
+      },
+      "properties": {
+        "ID": 16,
+        "NAME": "Brecon War Memorial Hospital",
+        "ADDRESS_1": "Cerrigochion Road, Brecon, Powys",
+        "POSTCODE": "LD3 7NS",
+        "NUMBER": "Tel: 01874 622443",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/867/directory/hospitals/211",
+        "POINT_X": 304920.000157,
+        "POINT_Y": 228742.002534,
+        "LONGITUDE": -3.384857,
+        "LATITUDE": 51.948979,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.394708500388789,
+          52.91219193744586
+        ]
+      },
+      "properties": {
+        "ID": 17,
+        "NAME": "Bryn Beryl Hospital",
+        "ADDRESS_1": "Caernarfon Road, Pwllheli, Gwynedd",
+        "POSTCODE": "LL53 6TT",
+        "NUMBER": "Tel: 01758 701122",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/41589",
+        "POINT_X": 239069.566424,
+        "POINT_Y": 337659.585201,
+        "LONGITUDE": -4.394766,
+        "LATITUDE": 52.912176,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4098773818083927,
+          53.18603259765585
+        ]
+      },
+      "properties": {
+        "ID": 18,
+        "NAME": "Denbigh Community Hospital",
+        "ADDRESS_1": "Ruthin Road, Denbigh, Denbighshire",
+        "POSTCODE": "LL16 3ES",
+        "NUMBER": "Tel: 01745 818100",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/42923",
+        "POINT_X": 305886.997413,
+        "POINT_Y": 366365.998076,
+        "LONGITUDE": -3.409914,
+        "LATITUDE": 53.186021,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8819210935251114,
+          52.74080562648023
+        ]
+      },
+      "properties": {
+        "ID": 19,
+        "NAME": "Dolgellau & Barmouth District Hospital",
+        "ADDRESS_1": "Dolgellau, Gwynedd",
+        "POSTCODE": "LL40 1NT",
+        "NUMBER": "Tel: 01341 422479",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/41723",
+        "POINT_X": 273047.999151,
+        "POINT_Y": 317569.995786,
+        "LONGITUDE": -3.881969,
+        "LATITUDE": 52.740785,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.218537204481617,
+          53.270328425960464
+        ]
+      },
+      "properties": {
+        "ID": 20,
+        "NAME": "Holywell Community Hospital",
+        "ADDRESS_1": "Halkyn Road, Holywell, Flintshire",
+        "POSTCODE": "CH8 7TZ",
+        "NUMBER": "Tel: 01352 711833",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/42942",
+        "POINT_X": 318831.883508,
+        "POINT_Y": 375508.391093,
+        "LONGITUDE": -3.218569,
+        "LATITUDE": 53.270318,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3767519998596525,
+          52.24348303265587
+        ]
+      },
+      "properties": {
+        "ID": 21,
+        "NAME": "Llandrindod Wells County War Memorial Hospital",
+        "ADDRESS_1": "Temple Street, Llandrindod Wells, Radnor, Powys",
+        "POSTCODE": "LD1 5HF",
+        "NUMBER": "Tel: 01597 822951",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/867/directory/hospitals/217",
+        "POINT_X": 306095.275902,
+        "POINT_Y": 261482.030799,
+        "LONGITUDE": -3.376793,
+        "LATITUDE": 52.243452,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828397416272318,
+          53.31143601610882
+        ]
+      },
+      "properties": {
+        "ID": 22,
+        "NAME": "Llandudno General Hospital",
+        "ADDRESS_1": "Hospital Road, Llandudno, Conwy",
+        "POSTCODE": "LL30 1LB",
+        "NUMBER": "Tel: 01492 860066",
+        "TYPE": "Type of Hospital: Acute",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/tudalen/42404",
+        "POINT_X": 278280.001613,
+        "POINT_Y": 380948.00402,
+        "LONGITUDE": -3.828442,
+        "LATITUDE": 53.311428,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8003496206718075,
+          51.59921311739741
+        ]
+      },
+      "properties": {
+        "ID": 23,
+        "NAME": "Neath Port Talbot Hospital",
+        "ADDRESS_1": "Baglan Way, Port Talbot",
+        "POSTCODE": "SA12 7BX",
+        "NUMBER": "Tel: 01639 862000",
+        "TYPE": "Type of Hospital: Acute",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/152",
+        "POINT_X": 275401.997075,
+        "POINT_Y": 190465.998926,
+        "LONGITUDE": -3.800402,
+        "LATITUDE": 51.599169,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9852626438689716,
+          51.609215366884094
+        ]
+      },
+      "properties": {
+        "ID": 24,
+        "NAME": "Singleton Hospital",
+        "ADDRESS_1": "Sketty Lane, Sketty, Swansea",
+        "POSTCODE": "SA2 8QA",
+        "NUMBER": "Tel: 01792 205666",
+        "TYPE": "Type of Hospital: Major acute",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/154",
+        "POINT_X": 262626.002812,
+        "POINT_Y": 191909.995587,
+        "LONGITUDE": -3.985318,
+        "LATITUDE": 51.609172,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.081562057321903,
+          52.58411360252023
+        ]
+      },
+      "properties": {
+        "ID": 25,
+        "NAME": "Tywyn Memorial Hospital",
+        "ADDRESS_1": "Bryn Hyfryd Road, Tywyn, Gwynedd",
+        "POSTCODE": "LL36 9HH",
+        "NUMBER": "Tel: 01654 710411",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/41603",
+        "POINT_X": 259068.00335,
+        "POINT_Y": 300513.998014,
+        "LONGITUDE": -4.081615,
+        "LATITUDE": 52.584091,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1432791560024977,
+          52.66230021937524
+        ]
+      },
+      "properties": {
+        "ID": 26,
+        "NAME": "Victoria Memorial Hospital",
+        "ADDRESS_1": "Salop Road, Welshpool, Powys",
+        "POSTCODE": "SY21 7DU",
+        "NUMBER": "Tel: 01938 553133",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/867/directory/hospitals/225",
+        "POINT_X": 322772.973244,
+        "POINT_Y": 307789.405451,
+        "LONGITUDE": -3.143313,
+        "LATITUDE": 52.662277,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.447302117159559,
+          51.63724280812277
+        ]
+      },
+      "properties": {
+        "ID": 27,
+        "NAME": "Ysbyty Cwm Rhondda",
+        "ADDRESS_1": "Partridge Road, Llwynypia",
+        "POSTCODE": "CF40 2LX",
+        "NUMBER": "Tel: 01443 430022",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/865/directory/hospitals/186",
+        "POINT_X": 299936.99854,
+        "POINT_Y": 194152.003818,
+        "LONGITUDE": -3.447347,
+        "LATITUDE": 51.637199,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6158476713293615,
+          53.30436526300777
+        ]
+      },
+      "properties": {
+        "ID": 28,
+        "NAME": "Ysbyty Penrhos Stanley",
+        "ADDRESS_1": "Penrhos Beach Road, Holyhead, Anglesey",
+        "POSTCODE": "LL65 2QA",
+        "NUMBER": "Tel: 01407 766000",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/41751",
+        "POINT_X": 225795.999213,
+        "POINT_Y": 381794.001855,
+        "LONGITUDE": -4.615908,
+        "LATITUDE": 53.304358,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.326362672362019,
+          51.60247941302748
+        ]
+      },
+      "properties": {
+        "ID": 29,
+        "NAME": "Pontypridd & District Cottage Hospital (Y Bwthyn)",
+        "ADDRESS_1": "The Common, Pontypridd, Glamorgan",
+        "POSTCODE": "CF37 4AL",
+        "NUMBER": "Tel: 01443 486222",
+        "TYPE": "Type of Hospital: Acute",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/865/directory/hospitals/180",
+        "POINT_X": 308235.998831,
+        "POINT_Y": 190126.995965,
+        "LONGITUDE": -3.326405,
+        "LATITUDE": 51.602435,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.002895375824219,
+          51.5821943597892
+        ]
+      },
+      "properties": {
+        "ID": 30,
+        "NAME": "St. Woolos Hospital",
+        "ADDRESS_1": "Stow Hill, Newport",
+        "POSTCODE": "NP20 4SZ",
+        "NUMBER": "Tel: 01633 234234",
+        "TYPE": "Type of Hospital: Acute",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/205",
+        "POINT_X": 330607.001559,
+        "POINT_Y": 187514.003926,
+        "LONGITUDE": -3.002932,
+        "LATITUDE": 51.582148,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.710461947761969,
+          53.28823908349345
+        ]
+      },
+      "properties": {
+        "ID": 31,
+        "NAME": "Colwyn Bay Clinic",
+        "ADDRESS_1": "Myrtle Villa, 19 Nant-Y-Glyn Road, Colwyn Bay, Conwy",
+        "POSTCODE": "LL29 8AY",
+        "NUMBER": "Tel: 01492 593491",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/69",
+        "POINT_X": 286074.997809,
+        "POINT_Y": 378172.998357,
+        "LONGITUDE": -3.710504,
+        "LATITUDE": 53.28823,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4098773818083927,
+          53.18603259765585
+        ]
+      },
+      "properties": {
+        "ID": 32,
+        "NAME": "Denbigh Clinic",
+        "ADDRESS_1": "Denbigh Infirmary, Ruthin Road, Denbigh, Denbighshire",
+        "POSTCODE": "LL16 3ES",
+        "NUMBER": "Tel: 01745 818100",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/74",
+        "POINT_X": 305886.997413,
+        "POINT_Y": 366365.998076,
+        "LONGITUDE": -3.409914,
+        "LATITUDE": 53.186021,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5807600199287415,
+          53.266456061032954
+        ]
+      },
+      "properties": {
+        "ID": 33,
+        "NAME": "Abergele Hospital",
+        "ADDRESS_1": "Llanfair Road, Abergele",
+        "POSTCODE": "LL22 8DP",
+        "NUMBER": "Tel: 01745 832295",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/42921",
+        "POINT_X": 294666.89565,
+        "POINT_Y": 375550.748968,
+        "LONGITUDE": -3.580799,
+        "LATITUDE": 53.266446,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.924374580874088,
+          51.808965262327575
+        ]
+      },
+      "properties": {
+        "ID": 34,
+        "NAME": "Amman Valley Hospital",
+        "ADDRESS_1": "Folland Road, Glanamman, Ammanford",
+        "POSTCODE": "SA18 2BQ",
+        "NUMBER": "Tel: 01269 822226",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/108",
+        "POINT_X": 267427.736761,
+        "POINT_Y": 214010.599355,
+        "LONGITUDE": -3.924428,
+        "LATITUDE": 51.808926,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2577232043738995,
+          52.00680421212757
+        ]
+      },
+      "properties": {
+        "ID": 35,
+        "NAME": "Bronllys Hospital",
+        "ADDRESS_1": "Bronllys, Brecon, Powys",
+        "POSTCODE": "LD3 0LS",
+        "NUMBER": "Tel: 01874 711255",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/867/directory/hospitals/213",
+        "POINT_X": 313765.672734,
+        "POINT_Y": 235010.388228,
+        "LONGITUDE": -3.257763,
+        "LATITUDE": 52.006768,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1624922098300736,
+          51.485435235747495
+        ]
+      },
+      "properties": {
+        "ID": 36,
+        "NAME": "Cardiff Royal Infirmary",
+        "ADDRESS_1": "Glossop Terrace, Cardiff",
+        "POSTCODE": "CF24 0SZ",
+        "NUMBER": "Tel: 029 2049 2233",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/864/directory/hospitals/161",
+        "POINT_X": 319378.003375,
+        "POINT_Y": 176916.997288,
+        "LONGITUDE": -3.162532,
+        "LATITUDE": 51.485388,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.655619955034858,
+          52.08275071748664
+        ]
+      },
+      "properties": {
+        "ID": 37,
+        "NAME": "Cardigan & District Memorial Hospital",
+        "ADDRESS_1": "Pontyceifion, Cardigan",
+        "POSTCODE": "SA43 1DP",
+        "NUMBER": "Tel: 01239 612214",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/113",
+        "POINT_X": 218134.004098,
+        "POINT_Y": 246039.00132,
+        "LONGITUDE": -4.655687,
+        "LATITUDE": 52.082718,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.189360363134161,
+          51.506764328913555
+        ]
+      },
+      "properties": {
+        "ID": 38,
+        "NAME": "Children's Hospital for Wales",
+        "ADDRESS_1": "University Hospital of Wales, Heath Park, Cardiff",
+        "POSTCODE": "CF14 4XW",
+        "NUMBER": "Tel: 029 2074 7747",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/864/directory/hospitals/165",
+        "POINT_X": 317550.996776,
+        "POINT_Y": 179318.999722,
+        "LONGITUDE": -3.189401,
+        "LATITUDE": 51.506717,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.052318552598976,
+          52.943569563433655
+        ]
+      },
+      "properties": {
+        "ID": 39,
+        "NAME": "Chirk Community Hospital",
+        "ADDRESS_1": "off John's Street, Chirk, Wrexham",
+        "POSTCODE": "LL14 5LN",
+        "NUMBER": "Tel: 01691 772430",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/42946",
+        "POINT_X": 329382.675946,
+        "POINT_Y": 338983.016372,
+        "LONGITUDE": -3.052349,
+        "LATITUDE": 52.943552,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.710461947761969,
+          53.28823908349345
+        ]
+      },
+      "properties": {
+        "ID": 40,
+        "NAME": "Colwyn Bay Community Hospital",
+        "ADDRESS_1": "Hesketh Road, Colwyn Bay, Conwy",
+        "POSTCODE": "LL29 8AY",
+        "NUMBER": "Tel: 01492 515218",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/42922",
+        "POINT_X": 286074.997809,
+        "POINT_Y": 378172.998357,
+        "LONGITUDE": -3.710504,
+        "LATITUDE": 53.28823,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.026278215304127,
+          51.691716429358245
+        ]
+      },
+      "properties": {
+        "ID": 41,
+        "NAME": "County Hospital",
+        "ADDRESS_1": "Coed y Gric Road, Griffithstown, Pontypool, Gwent",
+        "POSTCODE": "NP4 5YA",
+        "NUMBER": "Tel: 01495 768768",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/196",
+        "POINT_X": 329157.998031,
+        "POINT_Y": 199717.000855,
+        "LONGITUDE": -3.026315,
+        "LATITUDE": 51.691673,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0414554633862205,
+          53.20239469310635
+        ]
+      },
+      "properties": {
+        "ID": 42,
+        "NAME": "Deeside Community Hospital",
+        "ADDRESS_1": "Plough Lane, Higher Shotton, Deeside, Flintshire",
+        "POSTCODE": "CH5 1XS",
+        "NUMBER": "Tel: 01244 830461",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/42949",
+        "POINT_X": 330531.155242,
+        "POINT_Y": 367764.417782,
+        "LONGITUDE": -3.041484,
+        "LATITUDE": 53.202382,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.343760518775653,
+          51.598019393689725
+        ]
+      },
+      "properties": {
+        "ID": 43,
+        "NAME": "Dewi Sant Hospital",
+        "ADDRESS_1": "Albert Road, Pontypridd, Mid Glamorgan",
+        "POSTCODE": "CF37 1LB",
+        "NUMBER": "Tel: 01443 486222",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/865/directory/hospitals/178",
+        "POINT_X": 307021.996034,
+        "POINT_Y": 189653.001644,
+        "LONGITUDE": -3.343804,
+        "LATITUDE": 51.597975,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.262747078236723,
+          53.13013773297046
+        ]
+      },
+      "properties": {
+        "ID": 44,
+        "NAME": "Eryri Hospital",
+        "ADDRESS_1": "L�n Parc, Caernarfon, Gwynedd",
+        "POSTCODE": "LL55 2YE",
+        "NUMBER": "Tel: 01286 672481",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/41648",
+        "POINT_X": 248707.003973,
+        "POINT_Y": 361611.998894,
+        "LONGITUDE": -4.262801,
+        "LATITUDE": 53.130126,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.935040891519721,
+          52.99162726909375
+        ]
+      },
+      "properties": {
+        "ID": 45,
+        "NAME": "Ffestiniog Memorial Hospital",
+        "ADDRESS_1": "Wynne Rd, Blaenau Ffestiniog, Gwynedd",
+        "POSTCODE": "LL41 3DW",
+        "NUMBER": "Tel: 01766 831281",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/41727",
+        "POINT_X": 270213.742907,
+        "POINT_Y": 345562.83292,
+        "LONGITUDE": -3.935089,
+        "LATITUDE": 52.991612,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9813180295077113,
+          51.62475821428386
+        ]
+      },
+      "properties": {
+        "ID": 46,
+        "NAME": "Hill House Hospital",
+        "ADDRESS_1": "Sketty, Swansea",
+        "POSTCODE": "SA2 0FB",
+        "NUMBER": "Tel: 01792 203551",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/147",
+        "POINT_X": 262946.001878,
+        "POINT_Y": 193631.002953,
+        "LONGITUDE": -3.981374,
+        "LATITUDE": 51.624715,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0495337231092856,
+          52.34189529634832
+        ]
+      },
+      "properties": {
+        "ID": 47,
+        "NAME": "Knighton Hospital",
+        "ADDRESS_1": "Ffrydd Road, Knighton, Radnor, Powys",
+        "POSTCODE": "LD7 1DF",
+        "NUMBER": "Tel: 01547 528633",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/867/directory/hospitals/216",
+        "POINT_X": 328595.000524,
+        "POINT_Y": 272054.004603,
+        "LONGITUDE": -3.049567,
+        "LATITUDE": 52.341865,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7969884159938805,
+          51.99860111018458
+        ]
+      },
+      "properties": {
+        "ID": 48,
+        "NAME": "Llandovery Hospital",
+        "ADDRESS_1": "Llanfair Road, Llandovery",
+        "POSTCODE": "SA20 0LA",
+        "NUMBER": "Tel: 01550 722200",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/123",
+        "POINT_X": 276729.996087,
+        "POINT_Y": 234875.996697,
+        "LONGITUDE": -3.797039,
+        "LATITUDE": 51.998565,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5396865851576282,
+          52.45254171561058
+        ]
+      },
+      "properties": {
+        "ID": 49,
+        "NAME": "Llanidloes War Memorial Hospital",
+        "ADDRESS_1": "Eastgate Street, Llanidloes, Powys",
+        "POSTCODE": "SY18 6HF",
+        "NUMBER": "Tel: 01686 412121",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/867/directory/hospitals/218",
+        "POINT_X": 295465.998727,
+        "POINT_Y": 284958.000872,
+        "LONGITUDE": -3.539729,
+        "LATITUDE": 52.452515,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8457506703784587,
+          52.5918195943174
+        ]
+      },
+      "properties": {
+        "ID": 50,
+        "NAME": "Machynlleth Community Hospital (Bro Ddyfi)",
+        "ADDRESS_1": "Newtown Road, Machynlleth, Powys",
+        "POSTCODE": "SY20 8AD",
+        "NUMBER": "Tel: 01654 702266",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/867/page/67229",
+        "POINT_X": 275064.996693,
+        "POINT_Y": 300935.997218,
+        "LONGITUDE": -3.845799,
+        "LATITUDE": 52.591796,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.669702239442145,
+          51.61093731594712
+        ]
+      },
+      "properties": {
+        "ID": 51,
+        "NAME": "Maesteg Community Hospital",
+        "ADDRESS_1": "Neath Road, Maesteg, Bridgend",
+        "POSTCODE": "CF34 9PW",
+        "NUMBER": "Tel: 01656 752752",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/150",
+        "POINT_X": 284479.998984,
+        "POINT_Y": 191554.997204,
+        "LONGITUDE": -3.669752,
+        "LATITUDE": 51.610893,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.725198351455036,
+          51.81014634160968
+        ]
+      },
+      "properties": {
+        "ID": 52,
+        "NAME": "Monnow Vale Health & Social Care Facility",
+        "ADDRESS_1": "Trefynwy Suite (Wards), Drybridge Park, Monmouth, Monmouthshire",
+        "POSTCODE": "NP25 5BL",
+        "NUMBER": "Tel: 01600 773061",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/200",
+        "POINT_X": 350099.99975,
+        "POINT_Y": 212639.00197,
+        "LONGITUDE": -2.725228,
+        "LATITUDE": 51.810105,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3142324181988823,
+          52.52109142741649
+        ]
+      },
+      "properties": {
+        "ID": 53,
+        "NAME": "Montgomery County Infirmary",
+        "ADDRESS_1": "Llanfair Road, Newtown, Powys",
+        "POSTCODE": "SY16 2DW",
+        "NUMBER": "Tel: 01686 617200",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/867/directory/hospitals/220",
+        "POINT_X": 310925.001833,
+        "POINT_Y": 292280.00497,
+        "LONGITUDE": -3.31427,
+        "LATITUDE": 52.521066,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2880449245756176,
+          51.759835839055285
+        ]
+      },
+      "properties": {
+        "ID": 54,
+        "NAME": "Redwood Memorial Hospital",
+        "ADDRESS_1": "The Terrace, Rhymney",
+        "POSTCODE": "NP22 5LY",
+        "NUMBER": "Tel: 01685 840314",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/202",
+        "POINT_X": 311198.465775,
+        "POINT_Y": 207579.70018,
+        "LONGITUDE": -3.288086,
+        "LATITUDE": 51.759794,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4806672912172005,
+          53.3266343765745
+        ]
+      },
+      "properties": {
+        "ID": 55,
+        "NAME": "Royal Alexandra Hospital",
+        "ADDRESS_1": "Marine Drive, Rhyl, Denbighshire",
+        "POSTCODE": "LL18 3AS",
+        "NUMBER": "Tel: 01745 443000",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/42927",
+        "POINT_X": 301481.001662,
+        "POINT_Y": 382102.003691,
+        "LONGITUDE": -3.480704,
+        "LATITUDE": 53.326626,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3028134330928487,
+          53.11302486624029
+        ]
+      },
+      "properties": {
+        "ID": 56,
+        "NAME": "Ruthin Community Hospital",
+        "ADDRESS_1": "Llanrhydd Street, Ruthin, Denbighshire",
+        "POSTCODE": "LL15 1PS",
+        "NUMBER": "Tel: 01824 728610",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/42928",
+        "POINT_X": 312892.998977,
+        "POINT_Y": 358109.001616,
+        "LONGITUDE": -3.302848,
+        "LATITUDE": 53.113011,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.956632899315688,
+          51.693075914204265
+        ]
+      },
+      "properties": {
+        "ID": 57,
+        "NAME": "South Pembrokeshire Hospital",
+        "ADDRESS_1": "Fort Road, Pembroke Dock, Pembrokeshire",
+        "POSTCODE": "SA72 6SY",
+        "NUMBER": "Tel: 01646 682114",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/128",
+        "POINT_X": 195752.002459,
+        "POINT_Y": 203508.995407,
+        "LONGITUDE": -4.956707,
+        "LATITUDE": 51.693036,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.19237715321886,
+          51.482131858997036
+        ]
+      },
+      "properties": {
+        "ID": 58,
+        "NAME": "St. Davids Hospital (Cardiff)",
+        "ADDRESS_1": "Cowbridge Road East, Cardiff",
+        "POSTCODE": "CF11 9XB",
+        "NUMBER": "Tel: 029 2053 6666",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/864/directory/hospitals/168",
+        "POINT_X": 317296.999424,
+        "POINT_Y": 176583.002893,
+        "LONGITUDE": -3.192418,
+        "LATITUDE": 51.482084,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.702725514033759,
+          51.677589585237904
+        ]
+      },
+      "properties": {
+        "ID": 59,
+        "NAME": "Tenby Cottage Hospital",
+        "ADDRESS_1": "Gas Lane, The Norton, Tenby, Pembrokeshire",
+        "POSTCODE": "SA70 8AG",
+        "NUMBER": "Tel: 01834-845400",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/130",
+        "POINT_X": 213233.617993,
+        "POINT_Y": 201106.473122,
+        "LONGITUDE": -4.702795,
+        "LATITUDE": 51.677549,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9365074433147895,
+          52.215734785964145
+        ]
+      },
+      "properties": {
+        "ID": 60,
+        "NAME": "Tregaron Hospital",
+        "ADDRESS_1": "Tregaron",
+        "POSTCODE": "SY25 6JP",
+        "NUMBER": "Tel: 01974 298203",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/131",
+        "POINT_X": 267797.000067,
+        "POINT_Y": 259270.003985,
+        "LONGITUDE": -3.936559,
+        "LATITUDE": 52.215704,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.502868547573229,
+          51.6552657349516
+        ]
+      },
+      "properties": {
+        "ID": 61,
+        "NAME": "Ysbyty George Thomas",
+        "ADDRESS_1": "Cwmparc Road, Ystrad Fechan, Treorchy, Mid Glamorgan",
+        "POSTCODE": "CF42 6YG",
+        "NUMBER": "Tel: 01443 430022",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/865/directory/hospitals/187",
+        "POINT_X": 296132.999435,
+        "POINT_Y": 196233.997854,
+        "LONGITUDE": -3.502914,
+        "LATITUDE": 51.655222,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.150246890806925,
+          51.68688127772965
+        ]
+      },
+      "properties": {
+        "ID": 62,
+        "NAME": "Bryntirion Hospital",
+        "ADDRESS_1": "Llanelli, Carmarthenshire",
+        "POSTCODE": "SA15 3DX",
+        "NUMBER": "Tel: 01554 756567",
+        "TYPE": "Type of Hospital: Community Hospital: Elderly Ment",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/112",
+        "POINT_X": 251457.078143,
+        "POINT_Y": 200869.860852,
+        "LONGITUDE": -4.150305,
+        "LATITUDE": 51.68684,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.304304057506842,
+          53.25656646530258
+        ]
+      },
+      "properties": {
+        "ID": 63,
+        "NAME": "Cefni Hospital",
+        "ADDRESS_1": "Llangefni, Gwynedd",
+        "POSTCODE": "LL77 7PP",
+        "NUMBER": "Tel: 01248 750117",
+        "TYPE": "Type of Hospital: Community Hospital: Elderly Ment",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/41722",
+        "POINT_X": 246380.124055,
+        "POINT_Y": 375762.51835,
+        "LONGITUDE": -4.304358,
+        "LATITUDE": 53.256558,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7872942197798274,
+          51.64910289802779
+        ]
+      },
+      "properties": {
+        "ID": 64,
+        "NAME": "Cimla Hospital",
+        "ADDRESS_1": "Cimla, Neath",
+        "POSTCODE": "SA11 3SU",
+        "NUMBER": "Tel: 01639 862000",
+        "TYPE": "Type of Hospital: Community Hospital: Elderly Ment",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/140",
+        "POINT_X": 276441.905407,
+        "POINT_Y": 195991.87716,
+        "LONGITUDE": -3.787346,
+        "LATITUDE": 51.64906,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8308451421575147,
+          51.72329323965138
+        ]
+      },
+      "properties": {
+        "ID": 65,
+        "NAME": "Gellinudd Hospital",
+        "ADDRESS_1": "Lon Catwg, Gellinudd, Pontardawe, Swansea",
+        "POSTCODE": "SA8 3DX",
+        "NUMBER": "Tel: 01792 862221",
+        "TYPE": "Type of Hospital: Community Hospital: Elderly Ment",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/144",
+        "POINT_X": 273636.003928,
+        "POINT_Y": 204317.004117,
+        "LONGITUDE": -3.830897,
+        "LATITUDE": 51.723252,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.109098794609502,
+          51.77140327460658
+        ]
+      },
+      "properties": {
+        "ID": 66,
+        "NAME": "Mynydd Mawr Hospital",
+        "ADDRESS_1": "Llannon Road, Upper Tumble, Llanelli",
+        "POSTCODE": "SA14 6BU",
+        "NUMBER": "Tel: 01554 756567",
+        "TYPE": "Type of Hospital: Community Hospital: Elderly Ment",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/125",
+        "POINT_X": 254573.002164,
+        "POINT_Y": 210186.004134,
+        "LONGITUDE": -4.109156,
+        "LATITUDE": 51.771363,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.162351385161222,
+          51.68534543519686
+        ]
+      },
+      "properties": {
+        "ID": 67,
+        "NAME": "Brynmair Clinic Day Hospital",
+        "ADDRESS_1": "11 Goring Road, Llanelli, Carmarthenshire",
+        "POSTCODE": "SA15 3HF",
+        "NUMBER": "Tel: 01554 772768",
+        "TYPE": "Type of Hospital: Day Hospital",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/111",
+        "POINT_X": 250615.363535,
+        "POINT_Y": 200723.788449,
+        "LONGITUDE": -4.16241,
+        "LATITUDE": 51.685304,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.070963407252912,
+          52.4122726090269
+        ]
+      },
+      "properties": {
+        "ID": 68,
+        "NAME": "Gorwelion Day Hospital",
+        "ADDRESS_1": "Llanbadarn Road, Aberystwyth, Ceredigion",
+        "POSTCODE": "SY23 1HB",
+        "NUMBER": "Tel: 01970 615448",
+        "TYPE": "Type of Hospital: Day Hospital",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/117",
+        "POINT_X": 259237.661835,
+        "POINT_Y": 281381.715291,
+        "LONGITUDE": -4.071017,
+        "LATITUDE": 52.412246,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7219050650674754,
+          53.28989437809178
+        ]
+      },
+      "properties": {
+        "ID": 69,
+        "NAME": "Nant Y Glyn Health Resource Centre",
+        "ADDRESS_1": "10 Nant Y Glyn Road, Colwyn Bay, Conwy",
+        "POSTCODE": "LL29 7RB",
+        "NUMBER": "Tel: 01492 532164",
+        "TYPE": "Type of Hospital: Day Hospital",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/89",
+        "POINT_X": 285316.684932,
+        "POINT_Y": 378375.454871,
+        "LONGITUDE": -3.721947,
+        "LATITUDE": 53.289885,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9957771989059383,
+          51.79399219238664
+        ]
+      },
+      "properties": {
+        "ID": 70,
+        "NAME": "Swn-y-Gwynt Day Hospital",
+        "ADDRESS_1": "Tir-y-Dail Lane, Ammanford, Carmarthenshire",
+        "POSTCODE": "SA18 3AS",
+        "NUMBER": "Tel: 01269 595473",
+        "TYPE": "Type of Hospital: Day Hospital",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/129",
+        "POINT_X": 262460,
+        "POINT_Y": 212477.907661,
+        "LONGITUDE": -3.995832,
+        "LATITUDE": 51.793953,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2026256709052285,
+          51.44963815581573
+        ]
+      },
+      "properties": {
+        "ID": 71,
+        "NAME": "University Hospital Llandough",
+        "ADDRESS_1": "Penlan Road, Penarth",
+        "POSTCODE": "CF64 2XX",
+        "NUMBER": "Tel: 029 2071 1711",
+        "TYPE": "Type of Hospital: Major acute",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/864/directory/hospitals/170",
+        "POINT_X": 316526.00376,
+        "POINT_Y": 172981.003954,
+        "LONGITUDE": -3.202667,
+        "LATITUDE": 51.44959,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.996331383042833,
+          51.646288359484956
+        ]
+      },
+      "properties": {
+        "ID": 72,
+        "NAME": "Llanfrechfa Grange",
+        "ADDRESS_1": "Cwmbran",
+        "POSTCODE": "NP44 8YN",
+        "NUMBER": "Tel: 01633 623623",
+        "TYPE": "Type of Hospital: Psychiatric: Learning disability",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/198",
+        "POINT_X": 331159.000155,
+        "POINT_Y": 194635.995277,
+        "LONGITUDE": -2.996367,
+        "LATITUDE": 51.646244,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9332081879330794,
+          51.67047117757421
+        ]
+      },
+      "properties": {
+        "ID": 73,
+        "NAME": "Llwyneryr Unit",
+        "ADDRESS_1": "Learning Disability Services, Clasemont Road, Morriston, Swansea",
+        "POSTCODE": "SA6 6AH",
+        "NUMBER": "Tel: 01792 784000",
+        "TYPE": "Type of Hospital: Psychiatric: Learning disability",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/149",
+        "POINT_X": 266410.543573,
+        "POINT_Y": 198625.283355,
+        "LONGITUDE": -3.933263,
+        "LATITUDE": 51.670429,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.497528575401672,
+          53.269642654875355
+        ]
+      },
+      "properties": {
+        "ID": 74,
+        "NAME": "Ablett Unit",
+        "ADDRESS_1": "Ysbyty Glan Clwyd, Bodelwyddan, Rhyl",
+        "POSTCODE": "LL18 5UT",
+        "NUMBER": "",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/41577",
+        "POINT_X": 300225.167459,
+        "POINT_Y": 375785.672412,
+        "LONGITUDE": -3.497566,
+        "LATITUDE": 53.269633,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8307171243822538,
+          53.31333532850399
+        ]
+      },
+      "properties": {
+        "ID": 75,
+        "NAME": "Bodnant EMI Unit",
+        "ADDRESS_1": "Maesdu Road, Llandudno",
+        "POSTCODE": "LL30 1QY",
+        "NUMBER": "Tel: 01492 868170",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/62",
+        "POINT_X": 278130.877901,
+        "POINT_Y": 381163.233186,
+        "LONGITUDE": -3.830761,
+        "LATITUDE": 53.313327,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.965072333204376,
+          51.812715558720555
+        ]
+      },
+      "properties": {
+        "ID": 76,
+        "NAME": "Bro Cerwyn / St Brynach Day Hospitals",
+        "ADDRESS_1": "Fishguard Road, Haverfordwest, Pembrokeshire",
+        "POSTCODE": "SA61 2PZ",
+        "NUMBER": "Tel: 01437 773157",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/109",
+        "POINT_X": 195710.002117,
+        "POINT_Y": 216835.000878,
+        "LONGITUDE": -4.965147,
+        "LATITUDE": 51.812678,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7097414862282094,
+          53.28748810418958
+        ]
+      },
+      "properties": {
+        "ID": 77,
+        "NAME": "Bryn Hesketh Unit",
+        "ADDRESS_1": "Hesketh Road, Colwyn Bay, Conwy",
+        "POSTCODE": "LL29 8AT",
+        "NUMBER": "Tel: 01492 807512",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/64",
+        "POINT_X": 286121.024801,
+        "POINT_Y": 378088.308002,
+        "LONGITUDE": -3.709783,
+        "LATITUDE": 53.287479,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9889513021410106,
+          51.62817211912712
+        ]
+      },
+      "properties": {
+        "ID": 78,
+        "NAME": "Cefn Coed Hospital",
+        "ADDRESS_1": "Cockett, Swansea",
+        "POSTCODE": "SA2 0GH",
+        "NUMBER": "Tel: 01792 561155",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/138",
+        "POINT_X": 262427.99767,
+        "POINT_Y": 194025.000173,
+        "LONGITUDE": -3.989007,
+        "LATITUDE": 51.628129,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4806672912172005,
+          53.3266343765745
+        ]
+      },
+      "properties": {
+        "ID": 79,
+        "NAME": "Glan Traeth",
+        "ADDRESS_1": "Royal Alexandra Hospital, Marine Drive, Rhyl, Denbighshire",
+        "POSTCODE": "LL18 3AS",
+        "NUMBER": "Tel: 01745 443000",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/81",
+        "POINT_X": 301481.001662,
+        "POINT_Y": 382102.003691,
+        "LONGITUDE": -3.480704,
+        "LATITUDE": 53.326626,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5878230917333345,
+          51.526765316667785
+        ]
+      },
+      "properties": {
+        "ID": 80,
+        "NAME": "Glanrhyd Hospital",
+        "ADDRESS_1": "Tondu Road, Bridgend, Mid Glamorgan",
+        "POSTCODE": "CF31 4LN",
+        "NUMBER": "Tel: 01656 752752",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/145",
+        "POINT_X": 289945.99628,
+        "POINT_Y": 182068.002828,
+        "LONGITUDE": -3.587871,
+        "LATITUDE": 51.526719,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7654687997237564,
+          51.680043714310436
+        ]
+      },
+      "properties": {
+        "ID": 81,
+        "NAME": "Local Primary Mental Health Support Services, Tonn",
+        "ADDRESS_1": "",
+        "POSTCODE": "SA11 3LX",
+        "NUMBER": "Tel: 01639 862862",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/156",
+        "POINT_X": 278034.999622,
+        "POINT_Y": 199396.002739,
+        "LONGITUDE": -3.76552,
+        "LATITUDE": 51.680001,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.994930903550484,
+          51.832908028377325
+        ]
+      },
+      "properties": {
+        "ID": 82,
+        "NAME": "Maindiff Court Hospital",
+        "ADDRESS_1": "Ross Road, Abergavenny, Monmouthshire",
+        "POSTCODE": "NP7 8NF",
+        "NUMBER": "Tel: 01873 735500",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/199",
+        "POINT_X": 331538.998531,
+        "POINT_Y": 215390.004504,
+        "LONGITUDE": -2.994966,
+        "LATITUDE": 51.832867,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5807600199287415,
+          53.266456061032954
+        ]
+      },
+      "properties": {
+        "ID": 83,
+        "NAME": "North Wales Adolescent Service",
+        "ADDRESS_1": "Abergele Hospital, Llanfair Road, Abergele",
+        "POSTCODE": "LL22 8DP",
+        "NUMBER": "Tel: 01745 832295",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/90",
+        "POINT_X": 294666.89565,
+        "POINT_Y": 375550.748968,
+        "LONGITUDE": -3.580799,
+        "LATITUDE": 53.266446,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.966749044130008,
+          51.61318062932581
+        ]
+      },
+      "properties": {
+        "ID": 84,
+        "NAME": "St. Cadocs Hospital",
+        "ADDRESS_1": "Lodge Road, Caerleon",
+        "POSTCODE": "NP18 3XQ",
+        "NUMBER": "Tel: 01633 436700",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/204",
+        "POINT_X": 333157.075282,
+        "POINT_Y": 190926.397139,
+        "LONGITUDE": -2.966785,
+        "LATITUDE": 51.613135,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.026278215304127,
+          51.691716429358245
+        ]
+      },
+      "properties": {
+        "ID": 85,
+        "NAME": "Talygarn Unit",
+        "ADDRESS_1": "Grounds of County Hospital, Coed-y-Gric Road, Griffithstown, Pontypool",
+        "POSTCODE": "NP4 5YA",
+        "NUMBER": "Tel: 01495 768768",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/206",
+        "POINT_X": 329157.998031,
+        "POINT_Y": 199717.000855,
+        "LONGITUDE": -3.026315,
+        "LATITUDE": 51.691673,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7654687997237564,
+          51.680043714310436
+        ]
+      },
+      "properties": {
+        "ID": 86,
+        "NAME": "Tonna Hospital",
+        "ADDRESS_1": "Tonna Uchaf, Neath",
+        "POSTCODE": "SA11 3LX",
+        "NUMBER": "Tel: 01639 862921",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/155",
+        "POINT_X": 278034.999622,
+        "POINT_Y": 199396.002739,
+        "LONGITUDE": -3.76552,
+        "LATITUDE": 51.680001,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2317461471278066,
+          51.517242968720964
+        ]
+      },
+      "properties": {
+        "ID": 87,
+        "NAME": "Whitchurch Hospital",
+        "ADDRESS_1": "Whitchurch, Cardiff",
+        "POSTCODE": "CF14 7XB",
+        "NUMBER": "Tel: 029 2069 3191",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/864/directory/hospitals/172",
+        "POINT_X": 314628.996592,
+        "POINT_Y": 180533.002217,
+        "LONGITUDE": -3.231787,
+        "LATITUDE": 51.517196,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.209358297794803,
+          51.775182203726594
+        ]
+      },
+      "properties": {
+        "ID": 88,
+        "NAME": "Ysbyty'r Tri Chwm",
+        "ADDRESS_1": "College Road, Blaenau Gwent",
+        "POSTCODE": "NP23 6HA",
+        "NUMBER": "Tel: 01495 353200",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/210",
+        "POINT_X": 316657.372319,
+        "POINT_Y": 209193.468244,
+        "LONGITUDE": -3.209398,
+        "LATITUDE": 51.775141,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9851404356179003,
+          53.25186825349966
+        ]
+      },
+      "properties": {
+        "ID": 89,
+        "NAME": "Bryn y Neuadd Hospital",
+        "ADDRESS_1": "Aber Road, Llanfairfechan, Conwy",
+        "POSTCODE": "LL33 0HH",
+        "NUMBER": "Tel: 01248 682682",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness / Le",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/65",
+        "POINT_X": 267653.997728,
+        "POINT_Y": 374601.000831,
+        "LONGITUDE": -3.985188,
+        "LATITUDE": 53.251859,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.335745101785637,
+          51.855227197635564
+        ]
+      },
+      "properties": {
+        "ID": 90,
+        "NAME": "Cwm Seren, Tudor House & Ty Bryn",
+        "ADDRESS_1": "Hafan Derwen, Jobswell Road, Carmarthen",
+        "POSTCODE": "SA31 3HB",
+        "NUMBER": "Tel: 01267 235151",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness / Le",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/862/directory/hospitals/115",
+        "POINT_X": 239235.64669,
+        "POINT_Y": 219984.029478,
+        "LONGITUDE": -4.335807,
+        "LATITUDE": 51.855189,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4963452081304665,
+          53.27175509334038
+        ]
+      },
+      "properties": {
+        "ID": 91,
+        "NAME": "North Wales Cancer Treatment Centre",
+        "ADDRESS_1": "Ysbyty Glan Clwyd, Rhuddlan Road, Bodelwyddan, Rhyl",
+        "POSTCODE": "LL18 5UJ",
+        "NUMBER": "Tel: 01745 445231",
+        "TYPE": "Type of Hospital: Specialist acute",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/91",
+        "POINT_X": 300308.999207,
+        "POINT_Y": 376019.004931,
+        "LONGITUDE": -3.496383,
+        "LATITUDE": 53.271745,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2251093554976937,
+          51.494419059635
+        ]
+      },
+      "properties": {
+        "ID": 92,
+        "NAME": "Rookwood Hospital",
+        "ADDRESS_1": "18-20 Fairwater Road, Llandaff, Cardiff",
+        "POSTCODE": "CF5 2YN",
+        "NUMBER": "Tel: 029 2041 5415",
+        "TYPE": "Type of Hospital: Specialist acute",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/864/directory/hospitals/167",
+        "POINT_X": 315046.996455,
+        "POINT_Y": 177987.001002,
+        "LONGITUDE": -3.225151,
+        "LATITUDE": 51.494372,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.189360363134161,
+          51.506764328913555
+        ]
+      },
+      "properties": {
+        "ID": 93,
+        "NAME": "University Dental Hospital",
+        "ADDRESS_1": "Heath Park, Cardiff",
+        "POSTCODE": "CF14 4XW",
+        "NUMBER": "Tel: 029 2074 7747",
+        "TYPE": "Type of Hospital: Specialist acute",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/864/directory/hospitals/169",
+        "POINT_X": 317550.996776,
+        "POINT_Y": 179318.999722,
+        "LONGITUDE": -3.189401,
+        "LATITUDE": 51.506717,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.147968475541081,
+          53.169535759212
+        ]
+      },
+      "properties": {
+        "ID": 94,
+        "NAME": "Mold Community Hospital",
+        "ADDRESS_1": "Ash Grove, Mold, Flintshire",
+        "POSTCODE": "CH7 1XG",
+        "NUMBER": "Tel: 01352 758744",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/42944",
+        "POINT_X": 323358,
+        "POINT_Y": 364218,
+        "LONGITUDE": -3.148,
+        "LATITUDE": 53.169523,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.150347979604202,
+          52.94132784916304
+        ]
+      },
+      "properties": {
+        "ID": 95,
+        "NAME": "Ysbyty Alltwen",
+        "ADDRESS_1": "Tremadog, Gwynedd",
+        "POSTCODE": "LL49 9AQ",
+        "NUMBER": "Tel: 01766 510010",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/page/41583",
+        "POINT_X": 255596,
+        "POINT_Y": 340380,
+        "LONGITUDE": -4.150401,
+        "LATITUDE": 52.941312,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2024661697760823,
+          51.76816343960117
+        ]
+      },
+      "properties": {
+        "ID": 96,
+        "NAME": "Ysbyty Aneurin Bevan",
+        "ADDRESS_1": "Festival Drive, Ebbw Vale, Bleanau Gwent",
+        "POSTCODE": "NP23 6GL",
+        "NUMBER": "Tel: 01495 363636",
+        "TYPE": "Type of Hospital: Acute",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/208",
+        "POINT_X": 317120,
+        "POINT_Y": 208405,
+        "LONGITUDE": -3.202506,
+        "LATITUDE": 51.768122,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3924230201346757,
+          51.68689405605098
+        ]
+      },
+      "properties": {
+        "ID": 97,
+        "NAME": "Ysbyty Cwm Cynon",
+        "ADDRESS_1": "New Road, Mountain Ash, Rhondda Cynon Taff",
+        "POSTCODE": "CF45 4BZ",
+        "NUMBER": "Tel: 01685 721721",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/865/page/41150",
+        "POINT_X": 303840,
+        "POINT_Y": 199600,
+        "LONGITUDE": -3.392467,
+        "LATITUDE": 51.686851,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2370065607393705,
+          51.63468373140463
+        ]
+      },
+      "properties": {
+        "ID": 98,
+        "NAME": "Ysbyty Ystrad Fawr",
+        "ADDRESS_1": "Ystrad Fawr Way, Ystrad Mynach, Hengoed",
+        "POSTCODE": "CF82 7GP",
+        "NUMBER": "Tel: 01443 802200",
+        "TYPE": "Type of Hospital: Acute",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/209",
+        "POINT_X": 314485,
+        "POINT_Y": 193600,
+        "LONGITUDE": -3.237047,
+        "LATITUDE": 51.634639,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76456493062112,
+          51.76722674900386
+        ]
+      },
+      "properties": {
+        "ID": 99,
+        "NAME": "Ystradgynlais Community Hospital",
+        "ADDRESS_1": "Glanrhyd Road, Ystradgynlais, Swansea",
+        "POSTCODE": "SA9 1AU",
+        "NUMBER": "Tel: 01639 844777",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "Minor Injuries Unit",
+        "_24HR": "Not 24",
+        "URL": "http://www.wales.nhs.uk/sitesplus/867/directory/hospitals/226",
+        "POINT_X": 278332,
+        "POINT_Y": 209090,
+        "LONGITUDE": -3.764615,
+        "LATITUDE": 51.767186,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.311847660204648,
+          51.85629277870184
+        ]
+      },
+      "properties": {
+        "ID": 100,
+        "NAME": "Carmarthenshire Local Committee",
+        "ADDRESS_1": "103 Lammas Street, Carmarthen",
+        "POSTCODE": "SA31 3AP",
+        "NUMBER": "Tel: 01267 231384",
+        "TYPE": "Type of Hospital: CHC Local Committee",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/904/directory/hospitals/253",
+        "POINT_X": 240885,
+        "POINT_Y": 220050,
+        "LONGITUDE": -4.311909,
+        "LATITUDE": 51.856255,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.045102129416655,
+          52.40227736702958
+        ]
+      },
+      "properties": {
+        "ID": 101,
+        "NAME": "Ceredigion Local Committee",
+        "ADDRESS_1": "Merlin House, Parc Merlin, Aberystwyth",
+        "POSTCODE": "SY23 2NL",
+        "NUMBER": "Tel: 01970 624760",
+        "TYPE": "Type of Hospital: CHC Local Committee",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/904/directory/hospitals/254",
+        "POINT_X": 260965,
+        "POINT_Y": 280220,
+        "LONGITUDE": -4.045155,
+        "LATITUDE": 52.40225,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9673073577460207,
+          53.05049689754193
+        ]
+      },
+      "properties": {
+        "ID": 102,
+        "NAME": "Wrexham Local Committee",
+        "ADDRESS_1": "Cartrefle, Cefn Road, Wrexham",
+        "POSTCODE": "LL13 9NH",
+        "NUMBER": "Tel: 0845 2267292",
+        "TYPE": "Type of Hospital: CHC Local Committee",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/900/directory/hospitals/252",
+        "POINT_X": 335255.6,
+        "POINT_Y": 350797.3,
+        "LONGITUDE": -2.967335,
+        "LATITUDE": 53.050481,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.585809591030986,
+          53.28463137826888
+        ]
+      },
+      "properties": {
+        "ID": 103,
+        "NAME": "Abergele Clinic",
+        "ADDRESS_1": "Market Street, Abergele, Conwy",
+        "POSTCODE": "LL22 7BP",
+        "NUMBER": "Tel: 01745 823746",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/53",
+        "POINT_X": 294375,
+        "POINT_Y": 377580,
+        "LONGITUDE": -3.585849,
+        "LATITUDE": 53.284622,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.823637532210477,
+          53.320552758264654
+        ]
+      },
+      "properties": {
+        "ID": 104,
+        "NAME": "Argyll Road Health Clinic",
+        "ADDRESS_1": "Argyll Road, Llandudno, Conwy",
+        "POSTCODE": "LL30 1DF",
+        "NUMBER": "Tel: 01492 862025",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/56",
+        "POINT_X": 278623,
+        "POINT_Y": 381954,
+        "LONGITUDE": -3.823682,
+        "LATITUDE": 53.320544,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5096851555473823,
+          53.26943835597976
+        ]
+      },
+      "properties": {
+        "ID": 105,
+        "NAME": "Bodelwyddan Clinic",
+        "ADDRESS_1": "Ysgol-Faenol, Bodelwyddan, Abergele, Conwy",
+        "POSTCODE": "LL18 5TG",
+        "NUMBER": "",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/61",
+        "POINT_X": 299414,
+        "POINT_Y": 375780,
+        "LONGITUDE": -3.509723,
+        "LATITUDE": 53.269428,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5607025493727655,
+          53.02462523264221
+        ]
+      },
+      "properties": {
+        "ID": 106,
+        "NAME": "Cerrigydrudion Clinic",
+        "ADDRESS_1": "Kings Road, Cerrigydrudion, Denbighshire",
+        "POSTCODE": "LL21 9SU",
+        "NUMBER": "Tel: 01490 420755",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/67",
+        "POINT_X": 295418,
+        "POINT_Y": 348621,
+        "LONGITUDE": -3.560743,
+        "LATITUDE": 53.02461,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7679956863695674,
+          53.28132257275994
+        ]
+      },
+      "properties": {
+        "ID": 107,
+        "NAME": "Conwy Health Clinic",
+        "ADDRESS_1": "Muriau Buildings, Rosehill Street, Conwy",
+        "POSTCODE": "LL32 8LD",
+        "NUMBER": "Tel: 01492 593491",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/71",
+        "POINT_X": 282221,
+        "POINT_Y": 377497,
+        "LONGITUDE": -3.768039,
+        "LATITUDE": 53.281313,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3720498500021954,
+          52.98159794917725
+        ]
+      },
+      "properties": {
+        "ID": 108,
+        "NAME": "Corwen Clinic",
+        "ADDRESS_1": "Green Lane, Corwen, Wrexham",
+        "POSTCODE": "LL21 9DN",
+        "NUMBER": "Tel: 01490 412470",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/72",
+        "POINT_X": 307979,
+        "POINT_Y": 343576,
+        "LONGITUDE": -3.372087,
+        "LATITUDE": 52.981582,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4881657854026376,
+          53.31485098222314
+        ]
+      },
+      "properties": {
+        "ID": 109,
+        "NAME": "Fforddlas Health Centre",
+        "ADDRESS_1": "Fforddlas, Marsh Road, Rhyl, Denbighshire",
+        "POSTCODE": "LL18 3EP",
+        "NUMBER": "Tel: 01745 339431",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/79",
+        "POINT_X": 300954.3,
+        "POINT_Y": 380801.6,
+        "LONGITUDE": -3.488203,
+        "LATITUDE": 53.314842,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.518231348336775,
+          53.31086184505776
+        ]
+      },
+      "properties": {
+        "ID": 110,
+        "NAME": "Kinmel Bay Clinic",
+        "ADDRESS_1": "57 Foryd Road, Kinmel Bay, Rhyl, Conwy",
+        "POSTCODE": "LL18 5LU",
+        "NUMBER": "Tel: 01745 351522",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/84",
+        "POINT_X": 298942,
+        "POINT_Y": 380400,
+        "LONGITUDE": -3.518269,
+        "LATITUDE": 53.310853,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.656981487368367,
+          53.28172163578564
+        ]
+      },
+      "properties": {
+        "ID": 111,
+        "NAME": "Llysfaen Clinic",
+        "ADDRESS_1": "Llysfaen Community Centre, Ysgol Cynfran CP, Dolwyn Road, Llysfaen, Colwyn Bay, Conwy",
+        "POSTCODE": "LL29 8SS",
+        "NUMBER": "Tel: 01492 518128",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/86",
+        "POINT_X": 289623,
+        "POINT_Y": 377364,
+        "LONGITUDE": -3.657022,
+        "LATITUDE": 53.281712,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7643485574572666,
+          53.29146331253461
+        ]
+      },
+      "properties": {
+        "ID": 112,
+        "NAME": "Mochdre Clinic",
+        "ADDRESS_1": "Mochdre Infants School, Station Road, Mochdre, Colwyn Bay, Conwy",
+        "POSTCODE": "LL28 5EF",
+        "NUMBER": "",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/87",
+        "POINT_X": 282492,
+        "POINT_Y": 378619,
+        "LONGITUDE": -3.764392,
+        "LATITUDE": 53.291454,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.307493572682586,
+          53.1160029928289
+        ]
+      },
+      "properties": {
+        "ID": 113,
+        "NAME": "Plas Meddyg",
+        "ADDRESS_1": "Station Road, Ruthin, Denbighshire",
+        "POSTCODE": "LL15 1BP",
+        "NUMBER": "Tel: 01824 702255",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/92",
+        "POINT_X": 312585.8,
+        "POINT_Y": 358446,
+        "LONGITUDE": -3.307528,
+        "LATITUDE": 53.11599,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4048419812521065,
+          53.33359243741306
+        ]
+      },
+      "properties": {
+        "ID": 114,
+        "NAME": "Prestatyn Clinic",
+        "ADDRESS_1": "Kings Avenue, Prestatyn",
+        "POSTCODE": "LL19 9AA",
+        "NUMBER": "Tel: 01745 854546",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/93",
+        "POINT_X": 306546.1,
+        "POINT_Y": 382774,
+        "LONGITUDE": -3.404877,
+        "LATITUDE": 53.333584,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7431190662202556,
+          53.30916201529315
+        ]
+      },
+      "properties": {
+        "ID": 115,
+        "NAME": "Rhos-On-Sea Clinic",
+        "ADDRESS_1": "Parkway Community Centre, Parkway, Off Rhos Road, Rhos-On-Sea, Conwy",
+        "POSTCODE": "LL28 4SD",
+        "NUMBER": "",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/94",
+        "POINT_X": 283955,
+        "POINT_Y": 380553,
+        "LONGITUDE": -3.743162,
+        "LATITUDE": 53.309153,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.466593652063383,
+          53.292800783926
+        ]
+      },
+      "properties": {
+        "ID": 116,
+        "NAME": "Rhuddlan Clinic",
+        "ADDRESS_1": "Vicarage Lane, Rhuddlan, Denbighshire",
+        "POSTCODE": "LL18 2UE",
+        "NUMBER": "Tel: 01745 591039",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/95",
+        "POINT_X": 302341,
+        "POINT_Y": 378319,
+        "LONGITUDE": -3.466631,
+        "LATITUDE": 53.292791,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.309518076475766,
+          53.11585491567892
+        ]
+      },
+      "properties": {
+        "ID": 117,
+        "NAME": "Ruthin Clinic",
+        "ADDRESS_1": "Mount Street, Ruthin, Denbighshire",
+        "POSTCODE": "LL15 1BG",
+        "NUMBER": "Tel: 01824 702361",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/97",
+        "POINT_X": 312450,
+        "POINT_Y": 358432,
+        "LONGITUDE": -3.309553,
+        "LATITUDE": 53.115841,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.448968158739894,
+          53.25699516186585
+        ]
+      },
+      "properties": {
+        "ID": 118,
+        "NAME": "St Asaph Clinic",
+        "ADDRESS_1": "Pen-Y-Bont, The Roe, St Asaph, Denbighshire",
+        "POSTCODE": "LL17 0LU",
+        "NUMBER": "Tel: 01745 583596",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/99",
+        "POINT_X": 303435,
+        "POINT_Y": 374312,
+        "LONGITUDE": -3.449005,
+        "LATITUDE": 53.256985,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6804323733242144,
+          53.28684118461134
+        ]
+      },
+      "properties": {
+        "ID": 119,
+        "NAME": "Tan-Y-Marian Clinic",
+        "ADDRESS_1": "Tan-Y-Marian Community Room, Ysgol Tan-Y-Marian, Swn-Y-Don, Penmaenrhos, Conwy",
+        "POSTCODE": "LL29 9LL",
+        "NUMBER": "",
+        "TYPE": "Type of Hospital: Clinic",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/100",
+        "POINT_X": 288073,
+        "POINT_Y": 377970,
+        "LONGITUDE": -3.680474,
+        "LATITUDE": 53.286832,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6866455750895506,
+          51.63926503050887
+        ]
+      },
+      "properties": {
+        "ID": 120,
+        "NAME": "Chepstow Community Hospital",
+        "ADDRESS_1": "Tempest Way, Chepstow, Monmouthshire",
+        "POSTCODE": "NP16 5YX",
+        "NUMBER": "Tel: 01291 636636",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/866/directory/hospitals/195",
+        "POINT_X": 352579,
+        "POINT_Y": 193608,
+        "LONGITUDE": -2.686675,
+        "LATITUDE": 51.63922,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.416287039685248,
+          52.186416291617256
+        ]
+      },
+      "properties": {
+        "ID": 121,
+        "NAME": "Glan Irfon Health and Social Care Centre (Builth W",
+        "ADDRESS_1": "",
+        "POSTCODE": "LD2 3DG",
+        "NUMBER": "Tel: 01597 827 770",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/867/directory/hospitals/215",
+        "POINT_X": 303272,
+        "POINT_Y": 255187,
+        "LONGITUDE": -3.416329,
+        "LATITUDE": 52.186384,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0480184570280215,
+          51.67210996994075
+        ]
+      },
+      "properties": {
+        "ID": 122,
+        "NAME": "Gorseinon Hospital",
+        "ADDRESS_1": "Gorseinon, Swansea",
+        "POSTCODE": "SA4 4UU",
+        "NUMBER": "Tel: 01792 897837",
+        "TYPE": "Type of Hospital: Community",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/146",
+        "POINT_X": 258477,
+        "POINT_Y": 199024,
+        "LONGITUDE": -4.048075,
+        "LATITUDE": 51.672068,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4812872665797445,
+          53.32545801489159
+        ]
+      },
+      "properties": {
+        "ID": 123,
+        "NAME": "Hafod Mental Health Resource Centre",
+        "ADDRESS_1": "Beechwood Road, Rhyl, Denbighshire",
+        "POSTCODE": "LL18 1SG",
+        "NUMBER": "Tel: 01745 443050",
+        "TYPE": "Type of Hospital: Day Hospital",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/861/directory/hospitals/82",
+        "POINT_X": 301437,
+        "POINT_Y": 381972,
+        "LONGITUDE": -3.481324,
+        "LATITUDE": 53.325449,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5775968727375567,
+          51.665327513618
+        ]
+      },
+      "properties": {
+        "ID": 124,
+        "NAME": "Garngoch Hospital",
+        "ADDRESS_1": "Ty Garngoch, Hospital Road, Gorseinon, Swansea",
+        "POSTCODE": "SA4 4LH",
+        "NUMBER": "Tel: 01792 531200",
+        "TYPE": "Type of Hospital: Psychiatric: Mental illness",
+        "SERVICE": "",
+        "_24HR": "",
+        "URL": "http://www.wales.nhs.uk/sitesplus/863/directory/hospitals/143",
+        "POINT_X": 290988,
+        "POINT_Y": 197462,
+        "LONGITUDE": -3.577644,
+        "LATITUDE": 51.665284,
+        "hospital_n": "",
+        "telephone_": ""
+      }
+    }
+  ]
+}

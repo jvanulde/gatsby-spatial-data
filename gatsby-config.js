@@ -10,7 +10,8 @@ module.exports = {
     {
       resolve: `gatsby-source-geo`,
       options: {
-        path: `./data/HospitalsPoint.shp`,
+        // path: `./data/HospitalsPoint.shp`,
+        path: `./data/afm7p2_lrdmf_casualties_sauid.geojson`,
       },
     },
   ],
